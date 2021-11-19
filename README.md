@@ -47,7 +47,11 @@ build clean and scalable web applications and achieve client satisfaction.
   <img  alt="jenkins" src="https://img.shields.io/badge/Jenkins-d33833?logo=jenkins&logoColor=white&style=for-the-badge" />
 </div>
 
+<br>
+
 ## Connect with me
+
+### Social
 
 [<img  alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sebastian-mihalache)
 [<img  alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SashaMihalache)
@@ -55,7 +59,7 @@ build clean and scalable web applications and achieve client satisfaction.
 [<img  alt="instagram" src="https://img.shields.io/badge/instagram-e03368?logo=instagram&logoColor=white&style=for-the-badge" />](https://www.instagram.com/by.no.means.an.expert/)
 [<img  alt="soundcloud" src="https://img.shields.io/badge/soundcloud-ff3c00?logo=soundcloud&logoColor=white&style=for-the-badge" />](https://soundcloud.com/sasha_mihalache)
 
-## Email
+### Email
 
 contact@sashamihalache.dev
 <br>
