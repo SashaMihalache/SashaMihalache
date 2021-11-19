@@ -1,9 +1,9 @@
-### Hey there 👋
+## Hey there 👋
 
 I help companies around the world implement their business needs, with a proven ability to lead teams,
 build clean and scalable web applications and achieve client satisfaction.
 
-- 🔭  &nbsp; Working on multiple frontend and backend project using React/Vue.js and Nodejs/Ruby on Rails
+- 💻  &nbsp; Working on multiple frontend and backend project using React/Vue.js and Nodejs/Ruby on Rails
 - 📱  &nbsp; Recently gotten into iOS development
 - 🌱  &nbsp; Into entrepreneurship and SaaS businesses
 - 📖  &nbsp; Like reading books
