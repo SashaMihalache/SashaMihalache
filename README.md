@@ -1,9 +1,9 @@
 ## Hey there 👋
 
-I help companies around the world implement their business needs, with a proven ability to lead teams,
-build clean and scalable web applications and achieve client satisfaction.
+I'm a guy that's into programming and I love solving problems for business needs. 
+Currently at around 8 yrs of experience in various technologies but mainly JS-driven.
 
-- 💻  &nbsp; Working on multiple frontend and backend projects using React/Vue.js and Node.js/Ruby on Rails
+- 💻  &nbsp; Working on multiple frontend and backend projects using React/React-Native/Vue.js and Node.js/Ruby on Rails
 - 📱  &nbsp; Recently gotten into iOS development
 - 🌱  &nbsp; Into entrepreneurship and SaaS businesses
 - 📖  &nbsp; Like reading books
