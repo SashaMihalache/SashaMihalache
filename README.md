@@ -2,7 +2,7 @@
 
 I'm a guy that's into programming and I like solving problems for business needs.
 
-Currently at around **8 yrs of experience** in various technologies, but mainly **Javascript-driven**.
+Currently at around **10 yrs of experience** in various technologies, but mainly **Javascript-driven**.
 
 **Transparency** and **commitment** are some of my main values combined with **thousands of hours** of honing my skills.
 
