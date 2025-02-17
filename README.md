@@ -7,10 +7,9 @@ Currently at around **10 yrs of experience** in various technologies, but mainly
 **Transparency** and **commitment** are some of my main values combined with **thousands of hours** of honing my skills.
 
 - 💻  &nbsp; Working on multiple frontend and backend projects using React/React-Native/Vue.js and Node.js/Ruby on Rails
-- 📱  &nbsp; Recently gotten into iOS development
 - 🌱  &nbsp; Into entrepreneurship and SaaS businesses
-- 📖  &nbsp; Like reading books
-- 🎸  &nbsp; Writing music from time to time
+- 📖  &nbsp; Digs reading books, especially psychology
+- 🎸  &nbsp; Keeping that right brain creative by writing music from time to time
 <br>
 
 ## Expertise
