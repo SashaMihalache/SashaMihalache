@@ -64,5 +64,5 @@ Currently at around **10 yrs of experience** in various technologies, but mainly
 
 ### Email
 
-contact@sashamihalache.dev
+contact@sashamihalache.com
 <br>
