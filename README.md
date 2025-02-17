@@ -8,7 +8,7 @@ Currently at around **10 yrs of experience** in various technologies, but mainly
 
 - 💻  &nbsp; Working on multiple frontend and backend projects using React/React-Native/Vue.js and Node.js/Ruby on Rails
 - 🌱  &nbsp; Into entrepreneurship and SaaS businesses
-- 📖  &nbsp; Digs reading books, especially psychology
+- 📖  &nbsp; I dig reading books, especially psychology
 - 🎸  &nbsp; Keeping that right brain creative by writing music from time to time
 <br>
 
